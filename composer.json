@@ -1,5 +1,5 @@
 {
-    "name": "jorgeandrade/csd",
+    "name": "feimx/csd",
     "type": "library",
     "description": "Este paquete te permite encriptar, validar y convertir archivos .cer y .key en .pem para la facturacion electronica en méxico",
     "keywords": [
